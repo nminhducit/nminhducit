@@ -1,5 +1,5 @@
 ```Php
-$ NMINHDUCIT = array(
+$NMINHDUCIT = array(
    "Name" => "Nguyen Minh Duc",
    "Age" => "18+",
    "Gender" => "Male",
