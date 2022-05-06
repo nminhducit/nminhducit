@@ -1,3 +1,4 @@
+```Php
 $NMINHDUCIT = array(
    "Name" => "Nguyen Minh Duc",
    "Age" => "18+",
@@ -5,3 +6,4 @@ $NMINHDUCIT = array(
    "Address" => "Hung Yen, Viet Nam",
    "Skills" => "HTML, CSS, JS"
 );
+```
