@@ -1,9 +1,9 @@
 ```Php
 $NMINHDUCIT = array(
    "Name" => "Nguyen Minh Duc",
-   "Age" => "18+",
+   "Age" => "20+",
    "Gender" => "Male",
    "Address" => "Hung Yen, Viet Nam",
-   "Skills" => "HTML, CSS, JS"
+   "Skills" => "HTML, CSS, JS, C, C++, Java"
 );
 ```
