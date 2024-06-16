@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://svgsilh.com/svg/484402.svg">
+  <img align="center" alt="Coding" width="450" src="https://gsotgroup.vn/wp-content/uploads/2019/11/Big-data-la-gi-01.jpg">
 
   
   </td>
