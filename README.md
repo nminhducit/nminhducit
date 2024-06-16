@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://cdn.vietnambiz.vn/2019/9/23/services-bigdata-bigdataplatform-header-2732x1536-1569213678834748331341.jpg">
+  <img align="center" alt="Coding" width="450" src="https://svgsilh.com/svg/484402.svg">
 
   
   </td>
