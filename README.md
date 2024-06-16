@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nminhducit@gmail.com**
   
-- ⚡ Fun fact **Call me as MD**
+- ⚡ Fun fact **Call me as DN**
 
 </td>
 <td width="50%" align="center">
