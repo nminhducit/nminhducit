@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzAwaHN5Y2Vqd3p6b25oMGd5YnV2Z3ZpNXYwY2tqMDhvYnk5bDFmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.webp">
+  <img align="center" alt="Coding" width="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR5MHhrY3F0amQybDM5cDAwNG9teTI3OHhzYmhsODM5MnMwZnZodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dVtfrb8be6eNN9cjbP/giphy.webp">
 
   
   </td>
