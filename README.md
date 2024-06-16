@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **FPT**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **DATA**
 
 - 📫 How to reach me **nminhducit@gmail.com**
   
@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://cdn.vietnambiz.vn/2019/9/23/services-bigdata-bigdataplatform-header-2732x1536-1569213678834748331341.jpg">
 
   
   </td>
