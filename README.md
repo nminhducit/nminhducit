@@ -4,6 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=nminhducit&label=Profile%20views&color=0e75b6&style=flat&base=1586" alt="nminhducit" />
   <a href="https://paypal.me/nminhducit"><img src="https://img.shields.io/badge/donate-PayPal-blue" alt="PayPal" /></a>
 </div>
+<br />
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
