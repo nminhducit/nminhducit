@@ -5,29 +5,6 @@
   <a href="https://paypal.me/nminhducit"><img src="https://img.shields.io/badge/donate-PayPal-blue" alt="PayPal" /></a>
 </div>
 <br />
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **DATA**
-
-- 🧑‍🎓 I’m an Undergraduate at **FPT**
-
-- 💬 Ask me about **DATA**
-
-- 📫 How to reach me **nminhducit@gmail.com**
-  
-- ⚡ Fun fact **Call me as DN**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR5MHhrY3F0amQybDM5cDAwNG9teTI3OHhzYmhsODM5MnMwZnZodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dVtfrb8be6eNN9cjbP/giphy.webp">
-
-  
-  </td>
-</tr>
-</table>
 
 ---
 
